@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Jellyfin Wheel",
+  "version": "1.0.0",
+  "description": "Enable mouse wheel page navigation in Jellyfin Web slideshow.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": []
+}
