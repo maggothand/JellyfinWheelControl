@@ -1,4 +1,4 @@
-# Jellyfin Wheel Control v1.0.0
+# Jellyfin Wheel Control v1.0.1
 
 **Enable mouse wheel page navigation in Jellyfin Web slideshow.**
 
