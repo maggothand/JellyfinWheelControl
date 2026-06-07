@@ -1,4 +1,4 @@
-# Jellyfin Wheel Control v1.0.0
+# Jellyfin Wheel Control v1.0.2
 
 **Enable mouse wheel page navigation in Jellyfin Web slideshow.**
 
@@ -63,7 +63,7 @@ Jellyfin Web クライアントで画像や漫画を閲覧する際、マウス�
 
 ## バージョン
 
-**v1.0.1**
+**v1.0.2**
 
 ---
 
